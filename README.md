@@ -110,6 +110,37 @@ O relatório em PDF contém:
 - A estrutura modular (com quatro arquivos) facilita a manutenção e a expansão do projeto.
 - O relatório em PDF, com gráficos e explicações, é uma ferramenta poderosa para a tomada de decisões.
 
-## **Resumo Final** 📜
+## **12. Resumo Final** 📜
 
 O **Simulador de KPIs para Escola Online** é um projeto prático e didático que utiliza Python para calcular métricas de desempenho e gerar relatórios completos. Ele é ideal para iniciantes em programação que desejam entender como a tecnologia pode ser aplicada em contextos reais, como a gestão de negócios. Com uma interface gráfica simples e um relatório detalhado, o projeto é uma excelente ferramenta para análise e tomada de decisões. 🚀
+
+## **13. Contribuição** 🤝
+
+Sua colaboração é sempre bem-vinda! Se quiser contribuir, siga os passos abaixo:
+
+1. Faça um fork do repositório.
+2. Crie uma nova branch:
+
+   git checkout -b minha-melhoria
+
+3. Faça suas alterações e commit:
+
+   git commit -m "Adiciona nova funcionalidade"
+
+4. Envie as alterações:
+
+   git push origin minha-melhoria
+
+5. Abra um **Pull Request**.
+
+## 📧 **Contato**
+
+- Autor: Izairton Vasconcelos
+- E-mail: (<iovascon@gmail.com>)
+- LinkedIn: [Izairton Vasconcelos](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=izairton-oliveira-de-vasconcelos-a1916351)
+
+## 📜 Licença
+
+Este projeto está sob a licença [MIT]<https://opensource.org/licenses/MIT>.
+
+> **Nota:** Este projeto foi desenvolvido com o objetivo de demonstrar a viabilidade de aplicar o conceito de KPIs no setor empresarial, automatizando análises financeiras com Python. 🚀
